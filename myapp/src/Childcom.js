@@ -3,7 +3,7 @@ export default function Childcom(props){
         <>
         <h3>Hello React I'm Childcom</h3>
         {
-            props.setfun("My name is Anuradhya")
+            props.setfun(" My name is Anuradhya")
         }
         </>
     );
