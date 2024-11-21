@@ -6,5 +6,5 @@ export default function Childcom(props){
             props.setfun("My name is Anuradhya")
         }
         </>
-    )
+    );
 }
